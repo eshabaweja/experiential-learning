@@ -1,0 +1,9 @@
+Algorithm to check phone number.
+
+1) Start. Input country code and number.
+2) SPLIT. lAST TEN DIGITS WOULD BE THE MOBILE NUMBER, THE REST WILL BE COUNTRY CODE.
+3) Check if the COUNTRY code IS VALID USING LIST. If not, print "Invalid". Stop.
+4) A valid 10-digit phone number should NOT start with 0. If it does, print "invalid". Stop.
+5) Phone number is valid. Print "Valid phone number."
+6) Stop.
+

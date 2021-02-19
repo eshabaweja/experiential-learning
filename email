@@ -1,0 +1,12 @@
+#For new sign-up
+
+Algorithm to check email ID
+
+1) Start. Input email ID.
+2) If there are whitespaces in it, print "Invalid" and stop.
+3) Check if exactly one '@' is present in the input string. If yes,split the local part and domain.
+4) Check if email ID starts with a letter. If not, print "Invalid" and stop.
+5) Check if the domain is present in a given list of domains. If not, print "Invalid" and stop.
+6) Email is valid. Print "Valid".
+7) Stop.
+
